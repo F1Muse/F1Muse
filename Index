@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F1Muse - Your Formula 1 Inspiration</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>F1Muse</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h2>Welcome to F1Muse</h2>
+            <p>Your go-to source for everything Formula 1. From race recaps to technical analysis, we cover it all!</p>
+        </section>
+        <section class="latest-posts">
+            <h2>Latest Posts</h2>
+            <!-- Example blog post summary -->
+            <article>
+                <h3><a href="post1.html">Race Roundup: The Austrian Grand Prix</a></h3>
+                <p>A thrilling race with unexpected twists and turns. Check out our full recap and analysis.</p>
+            </article>
+            <article>
+                <h3><a href="post2.html">Lando Norris: A Rising Star</a></h3>
+                <p>We dive deep into Lando Norris's journey and his performance this season.</p>
+            </article>
+            <!-- Add more blog post summaries as needed -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 F1Muse. All rights reserved.</p>
+    </footer>
+</body>
+</html>
